@@ -1,0 +1,21 @@
+.section {
+    background-color: darkgray;
+    padding: 1rem;
+    margin: 1rem;
+}
+.parrafo {
+    background-color: white;
+    padding: 15px;
+}
+.parrafo.dragging {
+    opacity: 0.3;
+}
+.imgContenedor{
+    display: flex;
+    justify-content: center;
+    background-color: white;
+}
+img {
+    width: 200px;
+    height: 200px;
+}
